@@ -1,4 +1,5 @@
-<div align='center'><img src='https://user-images.githubusercontent.com/105128267/224688338-8f1f28b7-029b-4ed7-a567-86de0c44ff42.png'/></div>
+<div align='center'>![image](https://github.com/Plaginnnn/ReactShop/assets/88950180/f58fd03f-9845-42fa-874c-4d0b05161fc4)
+</div>
 
 <h2>About the project</h2>
 
