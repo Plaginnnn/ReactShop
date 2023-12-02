@@ -1,0 +1,38 @@
+footer {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	height: 17rem;
+	background-color: rgb(151, 151, 151);
+	font-weight: 900;
+}
+
+.footer-links {
+	display: flex;
+	gap: 3rem;
+	text-align: center;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.footer-links a {
+	color: white;
+	text-decoration: none;
+	font-size: 1.8rem;
+}
+
+.footer-links a:hover {
+	text-decoration: underline;
+}
+
+.love {
+	color: white;
+	font-size: 3rem;
+	margin-top: 3rem;
+	transition: 0.1s;
+}
+.love:hover {
+	font-size: 3.2rem;
+	color: azure;
+}
